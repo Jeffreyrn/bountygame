@@ -1,0 +1,3 @@
+rootProject.name = 'bountygame'
+
+include ':app'
